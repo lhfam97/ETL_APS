@@ -1,0 +1,13 @@
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\bin\Debug\netcoreapp3.0\ETL_APS.exe
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\obj\Debug\netcoreapp3.0\ETL_APS.csprojAssemblyReference.cache
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\obj\Debug\netcoreapp3.0\ETL_APS.AssemblyInfoInputs.cache
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\obj\Debug\netcoreapp3.0\ETL_APS.AssemblyInfo.cs
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\bin\Debug\netcoreapp3.0\ETL_APS.deps.json
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\bin\Debug\netcoreapp3.0\ETL_APS.runtimeconfig.json
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\bin\Debug\netcoreapp3.0\ETL_APS.runtimeconfig.dev.json
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\bin\Debug\netcoreapp3.0\ETL_APS.dll
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\bin\Debug\netcoreapp3.0\ETL_APS.pdb
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\obj\Debug\netcoreapp3.0\ETL_APS.csproj.CopyComplete
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\obj\Debug\netcoreapp3.0\ETL_APS.dll
+C:\Users\Luique\source\repos\ETL_APS\ETL_APS\obj\Debug\netcoreapp3.0\ETL_APS.pdb
